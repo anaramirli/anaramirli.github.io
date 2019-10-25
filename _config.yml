@@ -6,7 +6,7 @@
 name: anar's blog
 
 # Name of the author
-author: Anar Emirli
+author: Anar Amirli
 
 # Short bio or description (displayed in the header)
 description: On the stuff that Anar likes, mostly tech and sometimes misc.
@@ -28,7 +28,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: rss
+  rss: 
   twitter: anaramirli
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
