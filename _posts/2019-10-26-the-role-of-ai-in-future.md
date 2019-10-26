@@ -26,33 +26,33 @@ A number of researchers have conducted many studies to analyze the role of artif
 References:
 
 [1] MAYOR, ADRIENNE. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018. JSTOR, www.jstor.org/stable/j.ctvc779xn.
-[2] X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
+<br>[2] X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
 <br>[3] H. Cuayahuitl, S. Keizer, and O. Lemon, “Strategic dialogue management via deep reinforcement learning,” arXiv preprint arXiv:1511.08099, 2015
-[4] B. M. Lake, T. D. Ullman, J. B. Tenenbaum, and S. J. Gershman, “Building machines that learn and think like people,” Behavioral and Brain Sciences, vol. 40, 2017
-[5] Grace, Katja & Salvatier, John & Dafoe, Allan & Zhang, Baobao & Evans, Owain. (2017). When Will AI Exceed Human Performance? Evidence from AI Experts. 
-[6] Murray Campbell, A.Joseph Hoane, Feng-hsiung Hsu, Deep Blue, Artificial Intelligence, Volume 134, Issues 1–2, 2002, Pages 57-83, ISSN 0004-3702, https://doi.org/10.1016/S0004-3702(01)00129-1.
-[7] Douglas B. Lenat and R. V. Guha. 1989. Building Large Knowledge-Based Systems; Representation and Inference in the Cyc Project (1st ed.). Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA.
-[8] LeCun, Yann & Bengio, Y & Hinton, Geoffrey. (2015). Deep Learning. Nature. 521. 436-44. 10.1038/nature14539.
-[9] Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning.
-[10] Geoffrey E. Hinton (2009), Scholarpedia, 4(5):5947.
-[11] G. Hinton, L. Deng, D. Yu, G. Dahl, A.-r. Mohamed, N. Jaitly, A. Senior, V. Vanhoucke, P. Nguyen, B. Kingsbury et al., “Deep neural networks for acoustic modeling in speech recognition,” IEEE Signal processing magazine, vol. 29, 2012. <br>
-[12] Mnih, Volodymyr & Kavukcuoglu, Koray & Silver, David & Rusu, Andrei & Veness, Joel & G Bellemare, Marc & Graves, Alex & Riedmiller, Martin & K Fidjeland, Andreas & Ostrovski, Georg & Petersen, Stig & Beattie, Charles & Sadik, Amir & Antonoglou, Ioannis & King, Helen & Kumaran, Dharshan & Wierstra, Daan & Legg, Shane & Hassabis, Demis. (2015). Human-level control through deep reinforcement learning. Nature. 518. 529-33. 10.1038/nature14236. 
-[13] Mnih, Volodymyr & Kavukcuoglu, Koray & Silver, David & Graves, Alex & Antonoglou, Ioannis & Wierstra, Daan & Riedmiller, Martin. (2013). Playing Atari with Deep Reinforcement Learning. 
-[14] Xu, Yichong & Zhang, Hongyang & Miller, Kyle & Singh, Aarti & Dubrawski, Artur. (2017). Noise-Tolerant Interactive Learning from Pairwise Comparisons with Near-Minimal Label Complexity. 
-[15] Xu, Yichong & Muthakana, Hariank & Balakrishnan, Sivaraman & Singh, Aarti & Dubrawski, Artur. (2018). Nonparametric Regression with Comparisons: Escaping the Curse of Dimensionality with Ordinal Information. 
-[16] Yeh, Chih-Kuan & Sik Kim, Joon & Yen, Ian En-Hsu & Ravikumar, Pradeep. (2018). Representer Point Selection for Explaining Deep Neural Networks. 
-[17] Cruz-Roa, A., Gilmore, H., Basavanhally, A., Feldman, M., Ganesan, S., Shih, N.N., Tomaszewski, J., González, F.A. and Madabhushi, A., 2017. Accurate and reproducible invasive breast cancer detection in whole-slide images: A Deep Learning approach for quantifying tumor extent. Scientific Reports, 7, p.46450.
-[18] Diego Ardila, Atilla P. Kiraly, Sujeeth Bharadwaj, Bokyung Choi, Joshua J. Reicher, Lily Peng, Daniel Tse, Mozziyar Etemadi, Wenxing Ye, Greg Corrado, David P. Naidich & Shravya Shetty, 2019, End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography, Nature Medicine, https://doi.org/10.1038/s41591-019-0447-x
-[19] Overley, S.C., Cho, S.K., Mehta, A.I. and Arnold, P.M., 2017. Navigation and Robotics in Spinal Surgery: Where Are We Now?. Neurosurgery, 80(3S), pp.S86-S99.
-[20] Faiçal, B.S., Freitas, H., Gomes, P.H., Mano, L.Y., Pessin, G., de Carvalho, A.C., Krishnamachari, B. and Ueyama, J., 2017. An adaptive approach for UAV-based pesticide spraying in dynamic environments. Computers and Electronics in Agriculture, 138, pp.210-223.
-[21] Li, J. Frontiers Inf Technol Electronic Eng (2018) 19: 1462. https://doi.org/10.1631/FITEE.1800573
-[22] Wilner, A. S. (2018). Cybersecurity and its discontents: Artificial intelligence, the Internet of Things, and digital misinformation. International Journal, 73(2), 308–316. https://doi.org/10.1177/0020702018782496.
-[23] J. Kim, J. Kim, H. L. T. Thu and H. Kim, "Long Short Term Memory Recurrent Neural Network Classifier for Intrusion Detection," 2016 International Conference on Platform Technology and Service (PlatCon), Jeju, 2016, pp. 1-5.doi: 10.1109/PlatCon.2016.7456805
-[24] Andrej Karpathy, Software 2.0, Medium, Nov 2017, https://medium.com/@karpathy/software-2-0-a64152b37c35.
-[25] Neural Architecture Search with Reinforcement Learning, Barret Zoph, Quoc V. Le. International Conference on Learning Representations, 2017.
-[26] Sun, Yanan & Xue, Bing & Zhang, Mengjie & G. Yen, Gary. (2018). Automatically Designing CNN Architectures Using Genetic Algorithm for Image Classification. 
-[27] Bowen Baker, Otkrist Gupta, Nikhil Naik, and Ramesh Raskar. Designing neural network architectures using reinforcement learning. International Conference on Learning Representations, 2017.
-[28] Billings, Jay & McCaskey, Alexander & Vallee, Geoffroy & Watson, Greg. (2017). Will humans even write code in 2040 and what would that mean for extreme heterogeneity in computing?. 
-[29] C. Renzi, F. Leali, M. Cavazzuti, and A. Andrisano, “A review on artificial intelligence applications to the optimal design of dedicated and reconfigurable manufacturing systems,” The International Journal of Advanced Manufacturing Technology, vol. 72, no. 1-4, pp. 403–418, 2014.
-[30] Alemdar, Hande & Leroy, Vincent & Prost-Boucle, Adrien & Pétrot, Frédéric. (2017). Ternary neural networks for resource-efficient AI applications. 2547-2554. 10.1109/IJCNN.2017.7966166. 
-[31] S. Han, H. Mao, and W. J Dally. Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding, In ICLR, 2016.
+<br>[4] B. M. Lake, T. D. Ullman, J. B. Tenenbaum, and S. J. Gershman, “Building machines that learn and think like people,” Behavioral and Brain Sciences, vol. 40, 2017
+<br>[5] Grace, Katja & Salvatier, John & Dafoe, Allan & Zhang, Baobao & Evans, Owain. (2017). When Will AI Exceed Human Performance? Evidence from AI Experts. 
+<br>[6] Murray Campbell, A.Joseph Hoane, Feng-hsiung Hsu, Deep Blue, Artificial Intelligence, Volume 134, Issues 1–2, 2002, Pages 57-83, ISSN 0004-3702, https://doi.org/10.1016/S0004-3702(01)00129-1.
+<br>[7] Douglas B. Lenat and R. V. Guha. 1989. Building Large Knowledge-Based Systems; Representation and Inference in the Cyc Project (1st ed.). Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA.
+<br>[8] LeCun, Yann & Bengio, Y & Hinton, Geoffrey. (2015). Deep Learning. Nature. 521. 436-44. 10.1038/nature14539.
+<br>[9] Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning.
+<br>[10] Geoffrey E. Hinton (2009), Scholarpedia, 4(5):5947.
+<br>[11] G. Hinton, L. Deng, D. Yu, G. Dahl, A.-r. Mohamed, N. Jaitly, A. Senior, V. Vanhoucke, P. Nguyen, B. Kingsbury et al., “Deep neural networks for acoustic modeling in speech recognition,” IEEE Signal processing magazine, vol. 29, 2012.
+<br>[12] Mnih, Volodymyr & Kavukcuoglu, Koray & Silver, David & Rusu, Andrei & Veness, Joel & G Bellemare, Marc & Graves, Alex & Riedmiller, Martin & K Fidjeland, Andreas & Ostrovski, Georg & Petersen, Stig & Beattie, Charles & Sadik, Amir & Antonoglou, Ioannis & King, Helen & Kumaran, Dharshan & Wierstra, Daan & Legg, Shane & Hassabis, Demis. (2015). Human-level control through deep reinforcement learning. Nature. 518. 529-33. 10.1038/nature14236. 
+<br>[13] Mnih, Volodymyr & Kavukcuoglu, Koray & Silver, David & Graves, Alex & Antonoglou, Ioannis & Wierstra, Daan & Riedmiller, Martin. (2013). Playing Atari with Deep Reinforcement Learning. 
+<br>[14] Xu, Yichong & Zhang, Hongyang & Miller, Kyle & Singh, Aarti & Dubrawski, Artur. (2017). Noise-Tolerant Interactive Learning from Pairwise Comparisons with Near-Minimal Label Complexity. 
+<br>[15] Xu, Yichong & Muthakana, Hariank & Balakrishnan, Sivaraman & Singh, Aarti & Dubrawski, Artur. (2018). Nonparametric Regression with Comparisons: Escaping the Curse of Dimensionality with Ordinal Information. 
+<br>[16] Yeh, Chih-Kuan & Sik Kim, Joon & Yen, Ian En-Hsu & Ravikumar, Pradeep. (2018). Representer Point Selection for Explaining Deep Neural Networks. 
+<br>[17] Cruz-Roa, A., Gilmore, H., Basavanhally, A., Feldman, M., Ganesan, S., Shih, N.N., Tomaszewski, J., González, F.A. and Madabhushi, A., 2017. Accurate and reproducible invasive breast cancer detection in whole-slide images: A Deep Learning approach for quantifying tumor extent. Scientific Reports, 7, p.46450.
+<br>[18] Diego Ardila, Atilla P. Kiraly, Sujeeth Bharadwaj, Bokyung Choi, Joshua J. Reicher, Lily Peng, Daniel Tse, Mozziyar Etemadi, Wenxing Ye, Greg Corrado, David P. Naidich & Shravya Shetty, 2019, End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography, Nature Medicine, https://doi.org/10.1038/s41591-019-0447-x
+<br>[19] Overley, S.C., Cho, S.K., Mehta, A.I. and Arnold, P.M., 2017. Navigation and Robotics in Spinal Surgery: Where Are We Now?. Neurosurgery, 80(3S), pp.S86-S99.
+<br>[20] Faiçal, B.S., Freitas, H., Gomes, P.H., Mano, L.Y., Pessin, G., de Carvalho, A.C., Krishnamachari, B. and Ueyama, J., 2017. An adaptive approach for UAV-based pesticide spraying in dynamic environments. Computers and Electronics in Agriculture, 138, pp.210-223.
+<br>[21] Li, J. Frontiers Inf Technol Electronic Eng (2018) 19: 1462. https://doi.org/10.1631/FITEE.1800573
+<br>[22] Wilner, A. S. (2018). Cybersecurity and its discontents: Artificial intelligence, the Internet of Things, and digital misinformation. International Journal, 73(2), 308–316. https://doi.org/10.1177/0020702018782496.
+<br>[23] J. Kim, J. Kim, H. L. T. Thu and H. Kim, "Long Short Term Memory Recurrent Neural Network Classifier for Intrusion Detection," 2016 International Conference on Platform Technology and Service (PlatCon), Jeju, 2016, pp. 1-5.doi: 10.1109/PlatCon.2016.7456805
+<br>[24] Andrej Karpathy, Software 2.0, Medium, Nov 2017, https://medium.com/@karpathy/software-2-0-a64152b37c35.
+<br>[25] Neural Architecture Search with Reinforcement Learning, Barret Zoph, Quoc V. Le. International Conference on Learning Representations, 2017.
+<br>[26] Sun, Yanan & Xue, Bing & Zhang, Mengjie & G. Yen, Gary. (2018). Automatically Designing CNN Architectures Using Genetic Algorithm for Image Classification. 
+<br>[27] Bowen Baker, Otkrist Gupta, Nikhil Naik, and Ramesh Raskar. Designing neural network architectures using reinforcement learning. International Conference on Learning Representations, 2017.
+<br>[28] Billings, Jay & McCaskey, Alexander & Vallee, Geoffroy & Watson, Greg. (2017). Will humans even write code in 2040 and what would that mean for extreme heterogeneity in computing?. 
+<br>[29] C. Renzi, F. Leali, M. Cavazzuti, and A. Andrisano, “A review on artificial intelligence applications to the optimal design of dedicated and reconfigurable manufacturing systems,” The International Journal of Advanced Manufacturing Technology, vol. 72, no. 1-4, pp. 403–418, 2014.
+<br>[30] Alemdar, Hande & Leroy, Vincent & Prost-Boucle, Adrien & Pétrot, Frédéric. (2017). Ternary neural networks for resource-efficient AI applications. 2547-2554. 10.1109/IJCNN.2017.7966166. 
+<br>[31] S. Han, H. Mao, and W. J Dally. Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding, In ICLR, 2016.
