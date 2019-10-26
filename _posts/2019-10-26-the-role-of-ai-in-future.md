@@ -26,8 +26,8 @@ A number of researchers have conducted many studies to analyze the role of artif
 References:
 
 [1] MAYOR, ADRIENNE. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018. JSTOR, www.jstor.org/stable/j.ctvc779xn.
-[2] X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
-[3] H. Cuayahuitl, S. Keizer, and O. Lemon, “Strategic dialogue management via deep reinforcement learning,” arXiv preprint arXiv:1511.08099, 2015
+<br>[2] X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
+<br>[3] H. Cuayahuitl, S. Keizer, and O. Lemon, “Strategic dialogue management via deep reinforcement learning,” arXiv preprint arXiv:1511.08099, 2015
 [4] B. M. Lake, T. D. Ullman, J. B. Tenenbaum, and S. J. Gershman, “Building machines that learn and think like people,” Behavioral and Brain Sciences, vol. 40, 2017
 [5] Grace, Katja & Salvatier, John & Dafoe, Allan & Zhang, Baobao & Evans, Owain. (2017). When Will AI Exceed Human Performance? Evidence from AI Experts. 
 [6] Murray Campbell, A.Joseph Hoane, Feng-hsiung Hsu, Deep Blue, Artificial Intelligence, Volume 134, Issues 1–2, 2002, Pages 57-83, ISSN 0004-3702, https://doi.org/10.1016/S0004-3702(01)00129-1.
