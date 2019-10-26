@@ -5,7 +5,8 @@ categories: [AI]
 ---
 
 
-The need for more profound and competent AI systems triggers fundamental changes in hardware and software architecture. This in its turns boosts up the technological developments. Within many years, AI expected to perform some human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on our roads, more AI-based assistance system, more AI-powered smart devices, and more precise predictions made by computer systems.
+*The need for more profound and competent AI systems triggers fundamental changes in hardware and software architecture. This in its turns boosts up the technological developments. Within many years, AI expected to perform some human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on our roads, more AI-based assistance system, more AI-powered smart devices, and more precise predictions made by computer systems.*
+
 [![](/images/1928.jpg)*Now, do you remember 1928?*](https://twitter.com/fchollet/status/1130197913110319104)
 <br>
 
