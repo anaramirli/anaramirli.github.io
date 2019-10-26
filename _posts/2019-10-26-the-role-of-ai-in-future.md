@@ -25,7 +25,6 @@ The new generations of networks technologies and mobile applications have alread
 A number of researchers have conducted many studies to analyze the role of artificial intelligence on future technology with the main focus on future applications of AI. However, the core of modern technology contains software and hardware systems. Thus, computer systems are the first to get affected by improvement in the field of artificial intelligence. The need for more profound and competent AI systems will trigger fundamental changes in hardware and software architecture. This in its turns will affect technological developments. Within many years, AI will be able to perform very human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on our roads, more AI-based assistance system, more AI-powered smart devices, and more precise predictions made by computer systems.
 
 
-<div style="text-align: left">
 [1] MAYOR, ADRIENNE. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018. JSTOR, www.jstor.org/stable/j.ctvc779xn.
 <br>[2] X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
 <br>[3] H. Cuayahuitl, S. Keizer, and O. Lemon, “Strategic dialogue management via deep reinforcement learning,” arXiv preprint arXiv:1511.08099, 2015
@@ -45,7 +44,7 @@ A number of researchers have conducted many studies to analyze the role of artif
 <br>[17] Cruz-Roa, A., Gilmore, H., Basavanhally, A., Feldman, M., Ganesan, S., Shih, N.N., Tomaszewski, J., González, F.A. and Madabhushi, A., 2017. Accurate and reproducible invasive breast cancer detection in whole-slide images: A Deep Learning approach for quantifying tumor extent. Scientific Reports, 7, p.46450.
 <br>[18] Diego Ardila, Atilla P. Kiraly, Sujeeth Bharadwaj, Bokyung Choi, Joshua J. Reicher, Lily Peng, Daniel Tse, Mozziyar Etemadi, Wenxing Ye, Greg Corrado, David P. Naidich & Shravya Shetty, 2019, End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography, Nature Medicine, https://doi.org/10.1038/s41591-019-0447-x
 <br>[19] Overley, S.C., Cho, S.K., Mehta, A.I. and Arnold, P.M., 2017. Navigation and Robotics in Spinal Surgery: Where Are We Now?. Neurosurgery, 80(3S), pp.S86-S99.
-<br>[20] Faiçal, B.S., Freitas, H., Gomes, P.H., Mano, L.Y., Pessin, G., de Carvalho, A.C., Krishnamachari, B. and Ueyama, J., 2017. An adaptive approach for UAV-based pesticide spraying in dynamic environments. Computers and Electronics in Agriculture, 138, pp.210-223.
+<br>[20] Faiçal, B.S., Freitas, H., Gomes, P.H., Mano, L.Y., Pessin, G., de Carvalho, A.C., Krishnamachari, B. and Ueyama, J., 2017. An adaptive approach for UAV-based pesticide spraying in dynamic environments. Computers and Electronics in Agriculture, 138
 <br>[21] Li, J. Frontiers Inf Technol Electronic Eng (2018) 19: 1462. https://doi.org/10.1631/FITEE.1800573
 <br>[22] Wilner, A. S. (2018). Cybersecurity and its discontents: Artificial intelligence, the Internet of Things, and digital misinformation. International Journal, 73(2), 308–316. https://doi.org/10.1177/0020702018782496.
 <br>[23] J. Kim, J. Kim, H. L. T. Thu and H. Kim, "Long Short Term Memory Recurrent Neural Network Classifier for Intrusion Detection," 2016 International Conference on Platform Technology and Service (PlatCon), Jeju, 2016, pp. 1-5.doi: 10.1109/PlatCon.2016.7456805
@@ -57,4 +56,3 @@ A number of researchers have conducted many studies to analyze the role of artif
 <br>[29] C. Renzi, F. Leali, M. Cavazzuti, and A. Andrisano, “A review on artificial intelligence applications to the optimal design of dedicated and reconfigurable manufacturing systems,” The International Journal of Advanced Manufacturing Technology, vol. 72, no. 1-4, pp. 403–418, 2014.
 <br>[30] Alemdar, Hande & Leroy, Vincent & Prost-Boucle, Adrien & Pétrot, Frédéric. (2017). Ternary neural networks for resource-efficient AI applications. 2547-2554. 10.1109/IJCNN.2017.7966166. 
 <br>[31] S. Han, H. Mao, and W. J Dally. Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding, In ICLR, 2016.
-</div>
