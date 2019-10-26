@@ -4,7 +4,7 @@ title: The Role of Artificial Intelligence in Future Technology
 categories: [AI]
 ---
 
-[![](/images/path/to/folder/image.png)*Now, do you remember 1928?*][https://twitter.com/fchollet/status/1130197913110319104]
+[![](/images/path/to/folder/image.png "")*Now, do you remember 1928?*][https://twitter.com/fchollet/status/1130197913110319104]
 
 
 The desire for inventors to create machines that think dates back to ancient times. Even more than 2.500 years before, Greek inventors were imagining robotic servants, animated statues and other forms of artificial intelligence (AI) [1]. When early programmable computers were first designed, inventors wondered whether such machines might become as spontaneous as humans. However, this matter still remains as a subtle enigma. The most recent advancements in computer software and hardware and the ever-increasing amount of data have made artificial intelligence the primary domain of today's technology with many effective applications and active research topics. Today, AI can be defined as the basic simulation of natural human intelligence by a computer system. The processes here involve learning, reasoning, and self-correction [2-4]. The main applications include automating routine labour, understanding sounds and images, analyzing, and making a diagnosis. Although current researches are conducted with a focus on solving intuitive problems, it lays the groundwork for the future role of AI. Researchers believe there is a high probability of AI outperforming humans in all tasks in almost half-century from now [5]. Achieving this, AI will transform modern society by reshaping healthcare, transportation, science exploration, sport, finance, art, and the military.
@@ -23,7 +23,6 @@ The new generations of networks technologies and mobile applications have alread
 
 A number of researchers have conducted many studies to analyze the role of artificial intelligence on future technology with the main focus on future applications of AI. However, the core of modern technology contains software and hardware systems. Thus, computer systems are the first to get affected by improvement in the field of artificial intelligence. The need for more profound and competent AI systems will trigger fundamental changes in hardware and software architecture. This in its turns will affect technological developments. Within many years, AI will be able to perform very human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on our roads, more AI-based assistance system, more AI-powered smart devices, and more precise predictions made by computer systems.
 
-<br>
 <br>
 <br>
 
