@@ -22,7 +22,6 @@ The new generations of networks technologies and mobile applications have alread
 
 A number of researchers have conducted many studies to analyze the role of artificial intelligence on future technology with the main focus on future applications of AI. However, the core of modern technology contains software and hardware systems. Thus, computer systems are the first to get affected by improvement in the field of artificial intelligence. The need for more profound and competent AI systems will trigger fundamental changes in hardware and software architecture. This in its turns will affect technological developments. Within many years, AI will be able to perform very human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on our roads, more AI-based assistance system, more AI-powered smart devices, and more precise predictions made by computer systems.
 
-References:
 
 [1] MAYOR, ADRIENNE. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018. JSTOR, www.jstor.org/stable/j.ctvc779xn.
 <br>[2] X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
