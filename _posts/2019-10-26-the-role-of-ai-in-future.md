@@ -25,7 +25,7 @@ The new generations of networks technologies and mobile applications have alread
 A number of researchers have conducted many studies to analyze the role of artificial intelligence on future technology with the main focus on future applications of AI. However, the core of modern technology contains software and hardware systems. Thus, computer systems are the first to get affected by improvement in the field of artificial intelligence. The need for more profound and competent AI systems will trigger fundamental changes in hardware and software architecture. This in its turns will affect technological developments. Within many years, AI will be able to perform very human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on our roads, more AI-based assistance system, more AI-powered smart devices, and more precise predictions made by computer systems.
 
 
-
+<div style="text-align: left">
 [1] MAYOR, ADRIENNE. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018. JSTOR, www.jstor.org/stable/j.ctvc779xn.
 <br>[2] X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
 <br>[3] H. Cuayahuitl, S. Keizer, and O. Lemon, “Strategic dialogue management via deep reinforcement learning,” arXiv preprint arXiv:1511.08099, 2015
@@ -57,3 +57,4 @@ A number of researchers have conducted many studies to analyze the role of artif
 <br>[29] C. Renzi, F. Leali, M. Cavazzuti, and A. Andrisano, “A review on artificial intelligence applications to the optimal design of dedicated and reconfigurable manufacturing systems,” The International Journal of Advanced Manufacturing Technology, vol. 72, no. 1-4, pp. 403–418, 2014.
 <br>[30] Alemdar, Hande & Leroy, Vincent & Prost-Boucle, Adrien & Pétrot, Frédéric. (2017). Ternary neural networks for resource-efficient AI applications. 2547-2554. 10.1109/IJCNN.2017.7966166. 
 <br>[31] S. Han, H. Mao, and W. J Dally. Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding, In ICLR, 2016.
+</div>
