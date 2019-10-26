@@ -33,7 +33,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 0 20px;
   width: 100%;
 }
 
@@ -375,10 +375,6 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
 	
-	@include mobile {
-	padding: 0px 10px 0px 10x;
-	}
-	
   }
 }
 
@@ -448,7 +444,6 @@ content: '';
 	text-align: justify;
 	
 	@include mobile {
-	padding: 0px 10px 0px 10px;
     text-align: justify;
 	font-size: 16px;
 	
