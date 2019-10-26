@@ -326,8 +326,8 @@ nav {
     letter-spacing: 1px;
 
     @include mobile {
-      margin: 0 10px;
-      color: $blue;
+    margin: 0 10px;
+    color: $blue;
     }
   }
 }
@@ -374,6 +374,11 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+	
+	@include mobile {
+	padding: 0px 10px 0px 10x;
+	}
+	
   }
 }
 
@@ -443,19 +448,13 @@ content: '';
 	text-align: justify;
 	
 	@include mobile {
-	padding: 0px 15px 0px 15px;
+	padding: 0px 10px 0px 10px;
     text-align: justify;
-	font-size: 18px;
+	font-size: 16px;
 	
   }
 }
 
-.read-more {
-
-	@include mobile {
-	padding: 0px 0px 0px 15px;
-
-}
 
 
 .page h1{
