@@ -5,7 +5,7 @@ categories: [AI]
 ---
 
 
-*The need for more profound and competent AI systems triggers fundamental changes in hardware and software architecture. This in its turns boosts up the technological developments. Within many years, AI expected to perform some human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on our roads, more AI-based assistance system, more AI-powered smart devices, and more precise predictions made by computer systems.*
+*The need for more profound and competent AI systems triggers fundamental changes in hardware and software architecture. This in its turns boosts up the technological developments. Within many years, AI expected to perform some human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on our roads, more AI-powered assistance systems and smart devices, and more precise predictions made by computer systems.*
 
 [![](/images/1928.jpg)*Now, do you remember 1928?*](https://twitter.com/fchollet/status/1130197913110319104)
 <br>
@@ -22,7 +22,7 @@ Thanks to recent developments in software systems that most of today's AI paradi
 
 The new generations of networks technologies and mobile applications have already transformed our approach toward technology. All these developments accelerate advances in robotics as well as the IoT which enable us to communicate and interact with physical devices over the Internet. On the other hand, the cost of computation and storage for deep neural networks and other complex AI paradigms are usually high to deploy them into to the devices with limited computing capabilities such as wearables devices, smartphones, and other embedded systems. As the complexity of deep neural networks increases, it becomes more expensive to compute these algorithms with limited devices. In recent years, two main directions of study have been explored to reduce the cost of computation: developing the optimal design of hardware architecture systems that are able to operate complex computations [28] reducing the cost of the neural network by changing neural networks structure [30, 31]. As a matter of fact, it seems, AI not only will bring effective gains in robotics and IoT, but it will also be nontrivial reason to the developments in hardware systems.
 
-The need for more profound and competent AI systems triggers fundamental changes in hardware and software architecture. This in its turns boosts up the technological developments. Within many years, AI expected to perform some human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on our roads, more AI-based assistance system, more AI-powered smart devices, and more precise predictions made by computer systems.
+The need for more profound and competent AI systems triggers fundamental changes in hardware and software architecture. This in its turns boosts up the technological developments. Within many years, AI expected to perform some human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on our roads, more AI-powered assistance systems and smart devices, and more precise predictions made by computer systems.
 
 <br>
 <br>
