@@ -4,7 +4,7 @@ title: The Role of Artificial Intelligence in Future Technology
 categories: [AI]
 ---
 
-![](/images/1928.jpg)
+![Now, do you remember 1928?](/images/1928.jpg)
 
 
 
