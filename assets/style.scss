@@ -423,10 +423,14 @@ content: '';
 .post h1{
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
-  font-weight: normal;
+  font-weight: lighter;
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
+}
+
+.entry p1{
+  text-align: justify;
 }
 
 .page h1{
@@ -669,11 +673,6 @@ Modules - reusable parts of our design
 .post-tags {
   text-align: center;
   line-height: 35px;
-}
-
-p {
-    margin: 15px 0;
-    text-align: justify;
 }
 
 .post-tags a {
