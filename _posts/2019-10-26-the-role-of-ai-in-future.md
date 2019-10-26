@@ -26,7 +26,7 @@ A number of researchers have conducted many studies to analyze the role of artif
 References:
 
 [1] MAYOR, ADRIENNE. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018. JSTOR, www.jstor.org/stable/j.ctvc779xn.
-<br>[2] X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
+[2] X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
 <br>[3] H. Cuayahuitl, S. Keizer, and O. Lemon, “Strategic dialogue management via deep reinforcement learning,” arXiv preprint arXiv:1511.08099, 2015
 [4] B. M. Lake, T. D. Ullman, J. B. Tenenbaum, and S. J. Gershman, “Building machines that learn and think like people,” Behavioral and Brain Sciences, vol. 40, 2017
 [5] Grace, Katja & Salvatier, John & Dafoe, Allan & Zhang, Baobao & Evans, Owain. (2017). When Will AI Exceed Human Performance? Evidence from AI Experts. 
@@ -35,7 +35,7 @@ References:
 [8] LeCun, Yann & Bengio, Y & Hinton, Geoffrey. (2015). Deep Learning. Nature. 521. 436-44. 10.1038/nature14539.
 [9] Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning.
 [10] Geoffrey E. Hinton (2009), Scholarpedia, 4(5):5947.
-[11] G. Hinton, L. Deng, D. Yu, G. Dahl, A.-r. Mohamed, N. Jaitly, A. Senior, V. Vanhoucke, P. Nguyen, B. Kingsbury et al., “Deep neural networks for acoustic modeling in speech recognition,” IEEE Signal processing magazine, vol. 29, 2012.
+[11] G. Hinton, L. Deng, D. Yu, G. Dahl, A.-r. Mohamed, N. Jaitly, A. Senior, V. Vanhoucke, P. Nguyen, B. Kingsbury et al., “Deep neural networks for acoustic modeling in speech recognition,” IEEE Signal processing magazine, vol. 29, 2012. <br>
 [12] Mnih, Volodymyr & Kavukcuoglu, Koray & Silver, David & Rusu, Andrei & Veness, Joel & G Bellemare, Marc & Graves, Alex & Riedmiller, Martin & K Fidjeland, Andreas & Ostrovski, Georg & Petersen, Stig & Beattie, Charles & Sadik, Amir & Antonoglou, Ioannis & King, Helen & Kumaran, Dharshan & Wierstra, Daan & Legg, Shane & Hassabis, Demis. (2015). Human-level control through deep reinforcement learning. Nature. 518. 529-33. 10.1038/nature14236. 
 [13] Mnih, Volodymyr & Kavukcuoglu, Koray & Silver, David & Graves, Alex & Antonoglou, Ioannis & Wierstra, Daan & Riedmiller, Martin. (2013). Playing Atari with Deep Reinforcement Learning. 
 [14] Xu, Yichong & Zhang, Hongyang & Miller, Kyle & Singh, Aarti & Dubrawski, Artur. (2017). Noise-Tolerant Interactive Learning from Pairwise Comparisons with Near-Minimal Label Complexity. 
