@@ -441,6 +441,11 @@ content: '';
 
 .entry p {
 	text-align: justify;
+	
+	@include mobile {
+	padding: 20px;
+    text-align: center;
+  }
 }
 
 
