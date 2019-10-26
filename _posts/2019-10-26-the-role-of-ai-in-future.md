@@ -5,8 +5,7 @@ categories: [AI]
 ---
 
 [![](/images/1928.jpg)*Now, do you remember 1928?*][https://twitter.com/fchollet/status/1130197913110319104]
-!["dominating_sets_example2"](/images/1928.jpg)
-*Now, do you remember 1928?*[https://twitter.com/fchollet/status/1130197913110319104]
+[!["dominating_sets_example2"](/images/1928.jpg)*Now, do you remember 1928?*][https://twitter.com/fchollet/status/1130197913110319104]
 
 <br>
 
