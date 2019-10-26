@@ -4,7 +4,7 @@ title: The Role of Artificial Intelligence in Future Technology
 categories: [AI]
 ---
 
-[![Now, do you remember 1928?](/images/1928.jpg)*Now, do you remember 1928?*][https://twitter.com/fchollet/status/1130197913110319104]
+[![](/images/path/to/folder/image.png)*Now, do you remember 1928?*][https://twitter.com/fchollet/status/1130197913110319104]
 
 
 The desire for inventors to create machines that think dates back to ancient times. Even more than 2.500 years before, Greek inventors were imagining robotic servants, animated statues and other forms of artificial intelligence (AI) [1]. When early programmable computers were first designed, inventors wondered whether such machines might become as spontaneous as humans. However, this matter still remains as a subtle enigma. The most recent advancements in computer software and hardware and the ever-increasing amount of data have made artificial intelligence the primary domain of today's technology with many effective applications and active research topics. Today, AI can be defined as the basic simulation of natural human intelligence by a computer system. The processes here involve learning, reasoning, and self-correction [2-4]. The main applications include automating routine labour, understanding sounds and images, analyzing, and making a diagnosis. Although current researches are conducted with a focus on solving intuitive problems, it lays the groundwork for the future role of AI. Researchers believe there is a high probability of AI outperforming humans in all tasks in almost half-century from now [5]. Achieving this, AI will transform modern society by reshaping healthcare, transportation, science exploration, sport, finance, art, and the military.
@@ -27,7 +27,7 @@ A number of researchers have conducted many studies to analyze the role of artif
 <br>
 <br>
 
-[1] MAYOR, ADRIENNE. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018. JSTOR, www.jstor.org/stable/j.ctvc779xn.
+[1] Mayor, Adrienne. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018. JSTOR, www.jstor.org/stable/j.ctvc779xn.
 <br>[2] X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
 <br>[3] H. Cuayahuitl, S. Keizer, and O. Lemon, “Strategic dialogue management via deep reinforcement learning,” arXiv preprint arXiv:1511.08099, 2015
 <br>[4] B. M. Lake, T. D. Ullman, J. B. Tenenbaum, and S. J. Gershman, “Building machines that learn and think like people,” Behavioral and Brain Sciences, vol. 40, 2017
