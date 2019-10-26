@@ -443,9 +443,9 @@ content: '';
 	text-align: justify;
 	
 	@include mobile {
-	padding: 0px 10px 0px 10px;
+	padding: 0px 15px 0px 15px;
     text-align: justify;
-	font-size: 16px;
+	font-size: 18px;
 	
   }
 }
@@ -453,7 +453,7 @@ content: '';
 .read-more {
 
 	@include mobile {
-	padding: 0px 0px 0px 10px;
+	padding: 0px 0px 0px 15px;
 
 }
 
