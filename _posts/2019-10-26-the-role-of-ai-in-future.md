@@ -3,9 +3,7 @@ layout: post
 title: The Role of Artificial Intelligence in Future Technology
 categories: [AI]
 ---
-
-The need for more profound and competent AI systems triggers fundamental changes in hardware and software architecture. Which in its turns boosts up the technological developments.
-
+<br>
 [![](/images/1928.jpg)*Now, do you remember 1928?*](https://twitter.com/fchollet/status/1130197913110319104)
 <br>
 
