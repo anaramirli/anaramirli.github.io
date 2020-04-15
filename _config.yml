@@ -13,6 +13,7 @@ description: On tech, AI and misc...
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/circle-cropped.png
+shareicon: /images/lamp.jpg
 
 #
 # Flags below are optional
@@ -24,7 +25,7 @@ footer-links:
   email: anaramirli@gmail.com
   facebook:
   flickr:
-  github: 
+  github: anaramirli
   instagram:
   linkedin:
   pinterest:
