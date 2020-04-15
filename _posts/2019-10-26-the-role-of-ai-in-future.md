@@ -23,20 +23,30 @@ The new generations of networks technologies and mobile applications have aslo s
 
 The need for more profound and competent AI systems triggers fundamental changes in hardware and software architecture. Which in its turns boosts up the technological developments. Within many years, AI expected to perform some human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on roads, more AI-powered assistance systems in our lives, and more precise predictions made by computer systems.
 
-<br>
-
+<p align="left" style="font-size:90%; font-weight:bold;">References</p>
 
 <a name="1"> [1] </a> Mayor, Adrienne. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018. JSTOR, www.jstor.org/stable/j.ctvc779xn.
+
 <a name="2"> [2] </a> X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
+
 <a name="3"> [3] </a> H. Cuayahuitl, S. Keizer, and O. Lemon, “Strategic dialogue management via deep reinforcement learning,” arXiv preprint arXiv:1511.08099, 2015
+
 <a name="4"> [4] </a> B. M. Lake, T. D. Ullman, J. B. Tenenbaum, and S. J. Gershman, “Building machines that learn and think like people,” Behavioral and Brain Sciences, vol. 40, 2017
+
 <a name="5"> [5] </a> Grace, Katja & Salvatier, John & Dafoe, Allan & Zhang, Baobao & Evans, Owain. (2017). When Will AI Exceed Human Performance? Evidence from AI Experts. 
+
 <a name="6"> [6] </a> Murray Campbell, A.Joseph Hoane, Feng-hsiung Hsu, Deep Blue, Artificial Intelligence, Volume 134, Issues 1–2, 2002, Pages 57-83, ISSN 0004-3702, https://doi.org/10.1016/S0004-3702(01)00129-1.
+
 <a name="7"> [7] </a> Douglas B. Lenat and R. V. Guha. 1989. Building Large Knowledge-Based Systems; Representation and Inference in the Cyc Project (1st ed.). Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA.
+
 <a name="8"> [8] </a> LeCun, Yann & Bengio, Y & Hinton, Geoffrey. (2015). Deep Learning. Nature. 521. 436-44. 10.1038/nature14539.
+
 <a name="9"> [9] </a> Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning.
+
 <a name="10"> [10] </a> Geoffrey E. Hinton (2009), Scholarpedia, 4(5):5947.
+
 <a name="11"> [11] </a> G. Hinton, L. Deng, D. Yu, G. Dahl, A.-r. Mohamed, N. Jaitly, A. Senior, V. Vanhoucke, P. Nguyen, B. Kingsbury et al., “Deep neural networks for acoustic modeling in speech recognition,” IEEE Signal processing magazine, vol. 29, 2012.
+
 <a name="12"> [12] </a> Mnih, Volodymyr & Kavukcuoglu, Koray & Silver, David & Rusu, Andrei & Veness, Joel & G Bellemare, Marc & Graves, Alex & Riedmiller, Martin & K Fidjeland, Andreas & Ostrovski, Georg & Petersen, Stig & Beattie, Charles & Sadik, Amir & Antonoglou, Ioannis & King, Helen & Kumaran, Dharshan & Wierstra, Daan & Legg, Shane & Hassabis, Demis. (2015). Human-level control through deep reinforcement learning. Nature. 518. 529-33. 10.1038/nature14236. 
 <a name="13"> [13] </a> Mnih, Volodymyr & Kavukcuoglu, Koray & Silver, David & Graves, Alex & Antonoglou, Ioannis & Wierstra, Daan & Riedmiller, Martin. (2013). Playing Atari with Deep Reinforcement Learning. 
 <a name="14"> [14] </a>Xu, Yichong & Zhang, Hongyang & Miller, Kyle & Singh, Aarti & Dubrawski, Artur. (2017). Noise-Tolerant Interactive Learning from Pairwise Comparisons with Near-Minimal Label Complexity. 
