@@ -11,6 +11,10 @@ permalink: /search/
 
 <script src="{{ site.baseurl }}/assets/simple-jekyll-search.min.js" type="text/javascript"></script>
 
+<div style="text-align:center">
+  <a align="center">Find posts from their titles or tag names</a>
+</div>
+
 <script>
     SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
