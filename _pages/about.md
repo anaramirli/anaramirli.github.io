@@ -8,4 +8,4 @@ I am a master of Computer Science student at Saarland University. My primary sci
 
 If you wish to support me, here is a [*list of books*](https://www.amazon.de/hz/wishlist/ls/3A09NI0TVEM82?ref_=wl_share) that I would be glad to have in my bookshelf.
 
-You can follow me on [Twitter](https://twitter.com/anaramirli).
+Twitter: [@anarmrl](https://twitter.com/anaramirli).
