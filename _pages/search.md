@@ -4,6 +4,10 @@ title: Search
 permalink: /search/
 ---
 
+<div style="text-align:center">
+  <a align="center">Find blog posts from their titles or tag names</a>
+</div>
+
 <div id="search-container">
     <input type="text" id="search-input" placeholder="Search through the blog posts...">
     <ul id="results-container"></ul>
@@ -11,9 +15,7 @@ permalink: /search/
 
 <script src="{{ site.baseurl }}/assets/simple-jekyll-search.min.js" type="text/javascript"></script>
 
-<div style="text-align:center">
-  <a align="center">Find posts from their titles or tag names</a>
-</div>
+
 
 <script>
     SimpleJekyllSearch({
