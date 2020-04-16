@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of Artificial Intelligence in Future Technology
-categories: [AI]
+categories: [AI, EN]
 ---
 
 My insights on how the future technology will be shaped by the needs of AI and the changes it brings.
