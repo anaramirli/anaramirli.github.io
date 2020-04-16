@@ -4,7 +4,7 @@ title: The Role of Artificial Intelligence in Future Technology
 categories: [AI]
 ---
 
-My insights on how the future technology will be shaped by the needs of AI and the changes it brings.
+My insights on how the future technology will
 
 [![new york times](/images/1928.jpg)](https://twitter.com/fchollet/status/1130197913110319104)<br>
 [Now do you remember 1929?](https://twitter.com/fchollet/status/1130197913110319104)<br>
