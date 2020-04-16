@@ -3,8 +3,9 @@ layout: page
 title: Search
 permalink: /search/
 ---
-
-<a align="center">Find blog posts from their titles or tag names</a>
+<div style="text-align:center">
+  <p>Find blog posts from their titles or tag names</p>
+</div>
 
 <div id="search-container">
     <input type="text" id="search-input" placeholder="Search through the blog posts...">
