@@ -4,7 +4,7 @@ title: Search
 permalink: /search/
 ---
 <div style="text-align:center">
-  <p>Find blog posts from their titles or tag names</p>
+  <p>Find blog posts from titles or tag names</p>
 </div>
 
 <div id="search-container">
