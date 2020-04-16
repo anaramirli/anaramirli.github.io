@@ -9,8 +9,7 @@ My insights on how the future technology will be shaped by the needs of AI and t
 
 <div style="text-align:center">
   <a href="https://twitter.com/fchollet/status/1130197913110319104">
-  <img src="/images/1928.jpg"/></a>
-  <p align="left">Now, do you remember 1928?</p>
+  <img src="/images/1928.jpg"/><p align="center">Now, do you remember 1928?</p></a>
 </div>
 The desire of inventors to create machines that think dates back to ancient times. Even more than 2.500 years before, Greek inventors were imagining robotic servants, animated statues and other forms of artificial intelligence (AI) [[1]](#1). When early programmable computers were first designed, inventors wondered whether such machines might become as competent as humans. However, this matter still remains as a subtle enigma. The most recent advancements in computer software and hardware and the ever-increasing amount of data have made artificial intelligence the primary domain of today's technology with many effective applications and active research topics. Today, AI can be defined as the basic simulation of natural human intelligence by a computer system. The processes here involve learning, reasoning, and self-correction [[2-4]](#3). The main applications include automating routine labour, understanding sounds and images, analyzing, and making a diagnosis. Although current researches are conducted with a focus on solving intuitive problems, it lays the groundwork for the future role of AI. Researchers believe there is a high probability of AI outperforming humans in all tasks in almost half-century from now [[5]](#5). Achieving this, AI will transform modern society by reshaping healthcare, transportation, science exploration, sport, finance, art, and the military.
 
@@ -58,4 +57,4 @@ The need for more profound and competent AI systems triggers fundamental changes
 <br><a name="28"> [28] </a> Billings, Jay & McCaskey, Alexander & Vallee, Geoffroy & Watson, Greg. (2017). Will humans even write code in 2040 and what would that mean for extreme heterogeneity in computing?. 
 <br><a name="29"> [29] </a>C. Renzi, F. Leali, M. Cavazzuti, and A. Andrisano, “A review on artificial intelligence applications to the optimal design of dedicated and reconfigurable manufacturing systems,” The International Journal of Advanced Manufacturing Technology, vol. 72, no. 1-4, pp. 403–418, 2014.
 <br><a name="30"> [30] </a> Alemdar, Hande & Leroy, Vincent & Prost-Boucle, Adrien & Pétrot, Frédéric. (2017). Ternary neural networks for resource-efficient AI applications. 2547-2554. 10.1109/IJCNN.2017.7966166. 
-<a name="31"> [31] </a> S. Han, H. Mao, and W. J Dally. Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding, In ICLR, 2016.
+<br><a name="31"> [31] </a> S. Han, H. Mao, and W. J Dally. Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding, In ICLR, 2016.
