@@ -32,7 +32,7 @@ The need for more profound and competent AI systems triggers fundamental changes
 <br><a name="3"> [3] </a> H. Cuayahuitl, S. Keizer, and O. Lemon, “Strategic dialogue management via deep reinforcement learning,” arXiv preprint arXiv:1511.08099, 2015
 <br><a name="4"> [4] </a> B. M. Lake, T. D. Ullman, J. B. Tenenbaum, and S. J. Gershman, “Building machines that learn and think like people,” Behavioral and Brain Sciences, vol. 40, 2017
 <br><a name="5"> [5] </a> Grace, Katja & Salvatier, John & Dafoe, Allan & Zhang, Baobao & Evans, Owain. (2017). When Will AI Exceed Human Performance? Evidence from AI Experts. 
-<br><a name="6"> [6] </a> Murray Campbell, A.Joseph Hoane, Feng-hsiung Hsu, Deep Blue, Artificial Intelligence, Volume 134, Issues 1–2, 2002, Pages 57-83, ISSN 0004-3702, https://doi.org/10.1016/S0004-3702(01)00129-1.
+<br><a name="6"> [6] </a> Murray Campbell, Joseph Hoane, Feng-hsiung Hsu, Deep Blue, Artificial Intelligence, Volume 134, Issues 1–2, 2002, Pages 57-83, ISSN 0004-3702, https://doi.org/10.1016/S0004-3702(01)00129-1.
 <br><a name="7"> [7] </a> Douglas B. Lenat and R. V. Guha. 1989. Building Large Knowledge-Based Systems; Representation and Inference in the Cyc Project (1st ed.). Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA.
 <br><a name="8"> [8] </a> LeCun, Yann & Bengio, Y & Hinton, Geoffrey. (2015). Deep Learning. Nature. 521. 436-44. 10.1038/nature14539.
 <br><a name="9"> [9] </a> Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning.
