@@ -441,10 +441,10 @@ content: '';
 }
 
 .entry p {
-	text-align: justify;
+	
 	
 	@include mobile {
-    text-align: justify;
+    
 	font-size: 17px;
 	
   }
