@@ -8,7 +8,8 @@ My insights on how the future technology will be shaped by the needs of AI and t
 <br>
 <div style="text-align:center">
   <a href="https://twitter.com/fchollet/status/1130197913110319104">
-  <img src="/images/1928.jpg"/>Now do you remember 1929?</a>
+  <img src="/images/1928.jpg"/>
+    <p align="left">Now do you remember 1929?</p></a>
 </div>
 <br>
 The desire of inventors to create machines that think dates back to ancient times. Even more than 2.500 years before, Greek inventors were imagining robotic servants, animated statues and other forms of artificial intelligence (AI) [[1]](#1). When early programmable computers were first designed, inventors wondered whether such machines might become as competent as humans. However, this matter still remains as a subtle enigma. The most recent advancements in computer software and hardware and the ever-increasing amount of data have made artificial intelligence the primary domain of today's technology with many effective applications and active research topics. Today, AI can be defined as the basic simulation of natural human intelligence by a computer system. The processes here involve learning, reasoning, and self-correction [[2-4]](#3). The main applications include automating routine labour, understanding sounds and images, analyzing, and making a diagnosis. Although current researches are conducted with a focus on solving intuitive problems, it lays the groundwork for the future role of AI. Researchers believe there is a high probability of AI outperforming humans in all tasks in almost half-century from now [[5]](#5). Achieving this, AI will transform modern society by reshaping healthcare, transportation, science exploration, sport, finance, art, and the military.
@@ -25,7 +26,7 @@ The new generations of networks technologies and mobile applications have aslo s
 
 The need for more profound and competent AI systems triggers fundamental changes in hardware and software architecture. Which in its turns boosts up the technological developments. Within many years, AI expected to perform some human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on roads, more AI-powered assistance systems in our lives, and more precise predictions made by computer systems.
 
-<p align="left" style="font-size:90%; font-weight:bold;">References</p>
+<p align="left" style="font-size:80%; font-weight:bold;">References</p>
 
 <br><a name="1"> [1] </a> Mayor, Adrienne. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018. JSTOR, www.jstor.org/stable/j.ctvc779xn.
 <br><a name="2"> [2] </a> X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
