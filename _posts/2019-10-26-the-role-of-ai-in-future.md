@@ -26,7 +26,7 @@ The new generations of networks technologies and mobile applications have aslo s
 
 The need for more profound and competent AI systems triggers fundamental changes in hardware and software architecture. Which in its turns boosts up the technological developments. Within many years, AI expected to perform some human-level tasks. Our devices will be in a position to do action on behalf of us. We’ll see more competent self-controlled vehicles on roads, more AI-powered assistance systems in our lives, and more precise predictions made by computer systems.
 
-<p align="left" style="font-size:80%; font-weight:bold;">References</p>
+<p align="left" style="font-size:90%; font-weight:bold;">References</p>
 
 <a name="1"> [1] </a> Mayor, Adrienne. Gods and Robots: Myths, Machines, and Ancient Dreams of Technology. Princeton University Press, 2018. JSTOR, www.jstor.org/stable/j.ctvc779xn.
 <br><a name="2"> [2] </a> X. Wang, D. Fouhey, and A. Gupta, “Designing deep networks for surface normal estimation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 539–547.
@@ -58,4 +58,4 @@ The need for more profound and competent AI systems triggers fundamental changes
 <br><a name="28"> [28] </a> Billings, Jay & McCaskey, Alexander & Vallee, Geoffroy & Watson, Greg. (2017). Will humans even write code in 2040 and what would that mean for extreme heterogeneity in computing?. 
 <br><a name="29"> [29] </a>C. Renzi, F. Leali, M. Cavazzuti, and A. Andrisano, “A review on artificial intelligence applications to the optimal design of dedicated and reconfigurable manufacturing systems,” The International Journal of Advanced Manufacturing Technology, vol. 72, no. 1-4, pp. 403–418, 2014.
 <br><a name="30"> [30] </a> Alemdar, Hande & Leroy, Vincent & Prost-Boucle, Adrien & Pétrot, Frédéric. (2017). Ternary neural networks for resource-efficient AI applications. 2547-2554. 10.1109/IJCNN.2017.7966166. 
-<br><a name="31"> [31] </a> S. Han, H. Mao, and W. J Dally. Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding, In ICLR, 2016.
+<a name="31"> [31] </a> S. Han, H. Mao, and W. J Dally. Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding, In ICLR, 2016.
