@@ -4,7 +4,7 @@ title: The Role of Artificial Intelligence in Future Technology
 categories: [AI, EN]
 ---
 
-My insights on how the future technology will be shaped by the needs of AI and the changes it brings.
+My insights on how the future technology can be shaped by the needs of AI and the changes it brings.
 
 
 <div style="text-align:center">
