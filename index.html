@@ -12,7 +12,7 @@
   <meta property="og:image" content="thumbs/og-cover.png" />
   <meta property="og:type" content="website" />
   <meta name="twitter:card" content="summary_large_image" />
-  <link rel="icon" href="/favicon.ico" />
+  <link rel="icon" href="thumbs/icon.png" type="image/png" />
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -112,8 +112,11 @@
 	  }
 
 	  /* About */
-	  .about { display: flex; align-items: center; gap: 20px; padding: 16px; margin-bottom: 24px; }
+	  .about { display: flex; align-items: flex-start; gap: 20px; padding: 16px; margin-bottom: 24px; }
 	  .about img { width: 120px; height: 120px; object-fit: cover; border-radius: 12px; border: 1px solid var(--border); }
+	  .about p:first-child {
+		  margin-top: 0;   /* 👈 removes extra space above first line */
+		}
 
 	  .links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; align-items: center; justify-content: space-between; }
 	  .links-left { display: flex; flex-wrap: wrap; gap: 8px; }
@@ -486,4 +489,3 @@
   </script>
 </body>
 </html>
-
