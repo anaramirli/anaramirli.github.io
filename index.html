@@ -5,10 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Anar Amirli</title>
 
-  <!-- Social -->
+  <!-- SEO & Social -->
   <meta name="description" content="Anar Amirli — Applied AI/Data Scientist focusing on interpretable, scalable ML systems." />
   <meta property="og:title" content="Anar Amirli — Portfolio" />
-  <meta property="og:description" content="Explainability for AI, risk management, Large Language Models, and Document AI" />
+  <meta property="og:description" content="Explainability for AI, industrial risk management, generative design optimization." />
   <meta property="og:image" content="thumbs/og-cover.png" />
   <meta property="og:type" content="website" />
   <meta name="twitter:card" content="summary_large_image" />
@@ -290,7 +290,7 @@
           Hi! I’m <span class="highlight">Anar Amirli</span>, a Machine Learning Engineer with experience in building interpretable and scalable machine learning systems. I recently completed my Master’s in Computer Science at <i>Saarland University</i>, advised by <a href="https://ceo.dfki.de/" class="highlight" target="_blank" rel="noopener">Prof. Antonio Krüger</a> and <a href="https://www.dfki.de/~daso02/" class="highlight" target="_blank" rel="noopener">Prof. Daniel Sonntag</a>, where I developed a <span class="highlight">concept-based explainability framework</span> for vision models.
         </p>
         <p>
-          Most recently, I worked as a Research Assistant at the <a href="https://dfki.de/web" class="highlight" target="_blank" rel="noopener"><i>German Research Center for AI (DFKI)</i></a>, contributing to projects ranging from <span class="highlight">AI models for medical imaging</span> to <span class="highlight">risk/anomaly detection systems</span>, as well as <span class="highlight">generative language models for automated reporting and summarization</span>.
+          Most recently, I worked as a Research Assistant at the <a href="https://dfki.de/web" class="highlight" target="_blank" rel="noopener"><i>German Research Center for AI (DFKI)</i></a>, contributing to projects ranging from <span class="highlight">AI models for medical imaging</span> to <span class="highlight">risk/anomaly detection systems</span>, as well as <span class="highlight">generative language models</span> for automated reporting and summarization.
 		  </p>
         <div class="links">
           <div class="links-left">
@@ -378,9 +378,9 @@
           </div>
           <p class="p-abstract">
             Explaining how black-box models make decisions is crucial for building trustworthy AI systems, especially in high-stakes domains like healthcare. 
-            Traditional attribution methods highlight <em>where</em> a model attends but not <em>what</em> it recognizes. 
+            Traditional attribution methods highlight <em>where</em> a model attends but not <em>what</em> it recognises. 
             Concept-based methods address this by linking predictions to human-interpretable concepts. 
-            This work introduces an ante-hoc explainability framework that combines non-negative matrix factorization (NMF) for unsupervised concept discovery with Graph Attention Networks (GATs) to model relationships between concepts, with a focus on medical imaging (i.e., skin cancer diagnosis).
+            This work introduces an ante-hoc explainability framework that combines non-negative matrix factorisation (NMF) for unsupervised concept discovery with Graph Attention Networks (GATs) to model relationships between concepts, with a focus on medical imaging (i.e., skin cancer diagnosis).
           </p>
           
 		  <details class="summaryless">
@@ -388,11 +388,11 @@
             <p>
               While concept bottleneck models (CBMs) offer promise, they suffer from key limitations: the difficulty of defining clinically meaningful concepts, the high cost of annotations, reliance on heatmaps for localization, and potentially spurious alignment between visual features and textual labels. 
               To avoid these pitfalls and leverage the strengths of vision models, we focus exclusively on visually grounded concepts. 
-              However, prior visually grounded methods often produce only global, class-specific explanations, neglect concept interactions, and providing unstable interpretability due to post-hoc nature.
+              However, prior visually grounded methods often produce only global, class-specific explanations, neglect concept interactions, and provide unstable interpretability due to post-hoc nature.
             </p>
             <p>
               Our framework addresses these issues by (a) discovering visual concepts with NMF, and (b) constructing concept graphs that capture interactions through a shallow GAT, balancing expressiveness and interpretability. 
-              Although our models do not outperform heavily optimized task-specific CBMs, they demonstrate consistent generalization across medical and standard datasets and, in some cases, surpass baseline CBMs, showcasing a more faithful, visually grounded alternative for explainability.
+              Although our models do not outperform heavily optimised task-specific CBMs, they demonstrate consistent generalisation across medical and standard datasets and, in some cases, surpass baseline CBMs, showcasing a more faithful, visually grounded alternative for explainability.
             </p>
 		  </details>
         </div>
@@ -414,14 +414,14 @@
           </div>
           <p class="p-abstract">
             Real-time anomaly detection is critical in industrial settings to maintain quality and prevent costly failures. 
-            In this work, we study multivariate time series data from glass production and compare unsupervised detection and localization methods. 
-            Our two-level approach detects anomalies, categorizes their types, and localizes faulty sensors with the help of explainable AI techniques.
+            In this work, we study multivariate time series data from glass production and compare unsupervised detection and localisation methods. 
+            Our two-level approach detects anomalies, categorises their types, and localises faulty sensors with the help of explainable AI techniques.
           </p>
           <details class="summaryless">
             <summary>Read more</summary>
             <p>
               Experiments showed that combining statistical pattern recognition with multivariate anomaly detection pipelines significantly improves both accuracy and interpretability. 
-              By categorizing anomalies into distinct classes and highlighting faulty sensors, our method provides actionable insights for engineers monitoring production. 
+              By categorising anomalies into distinct classes and highlighting faulty sensors, our method provides actionable insights for engineers monitoring production. 
               This pipeline achieved promising results and demonstrates the value of integrating explainability into anomaly detection systems.
             </p>
           </details>
@@ -434,20 +434,20 @@
           <img src="thumbs/topology.png" alt="Topology optimization generative AI designs thumbnail" loading="lazy">
         </div>
         <div class="project-text">
-          <div class="p-title">From Multimodal Inputs to Optimized Designs: Generative AI for Topology Optimization in 2D and 3D</div>
+          <div class="p-title">From Multimodal Inputs to Optimised Designs: Generative AI for Topology Optimisation in 2D and 3D</div>
           <div class="p-authors">Yelaman Maksum, Anar Amirli, Yulong Ding, Alessandro Romagnoli, Samir Rustamov, Bakytzhan Akhmetov</div>
           <div class="p-links"><a href="https://www.sciencedirect.com/science/article/pii/S2452414X22000231" target="_blank" rel="noopener">Article</a></div>
           <p class="p-abstract">
-            This project reframes topology optimization as a multimodal-to-image translation task. 
-            We apply generative AI models, including GANs and diffusion models, to translate structured inputs into optimized 2D and 3D designs. 
+            This project reframes topology optimisation as a multimodal-to-image translation task. 
+            We apply generative AI models, including GANs and diffusion models, to translate structured inputs into optimised 2D and 3D designs. 
             The models consistently generate valid, high-quality structures at reduced computational cost.
           </p>
           <details class="summaryless">
             <summary>Read more</summary>
             <p>
-              Traditional topology optimization relies on iterative solvers and finite element methods, which are computationally expensive and time-consuming. 
+              Traditional topology optimisation relies on iterative solvers and finite element methods, which are computationally expensive and time-consuming. 
               By leveraging modern generative approaches, we accelerate the design process while preserving structural accuracy. 
-              Notably, performance improved at higher iteration levels, underscoring the potential of generative AI to reshape how engineers approach design optimization across multiple modalities.
+              Notably, performance improved at higher iteration levels, underscoring the potential of generative AI to reshape how engineers approach design optimisation across multiple modalities.
             </p>
           </details>
         </div>
@@ -471,7 +471,7 @@
           <p class="p-abstract">
             We proposed a machine learning–based method to predict the ball location in football when it is occluded,
             using only players’ spatial information from optical tracking data. Trained on 300 matches of the Turkish Super League,
-            our neural network models achieved strong predictive accuracy (R² ≈ 79% for x-axis and 92% for y-axis).
+            our neural network models achieved strong predictive accuracy (R² ≈ 79% for the x-axis and 92% for the y-axis).
             This approach can complement vision-based tracking systems and enable more reliable tracking in football.
           </p>
         </div>
@@ -499,5 +499,3 @@
   </script>
 </body>
 </html>
-
-
